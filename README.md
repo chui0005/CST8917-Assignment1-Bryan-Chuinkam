@@ -86,7 +86,7 @@ In conclusion my position is that durable Functions represents meaningful progre
 ## References (with hyperlinks)
 
 ### Paper
-- Hellerstein, J. M., Faleiro, J., Gonzalez, J. E., Schleier-Smith, J., Sreekanti, V., Tumanov, A., & Wu, C. (2019). *Serverless Computing: One Step Forward, Two Steps Back (CIDR 2019).* (Provided PDF). :contentReference[oaicite:42]{index=42}
+- Hellerstein, J. M., Faleiro, J., Gonzalez, J. E., Schleier-Smith, J., Sreekanti, V., Tumanov, A., & Wu, C. (2019). *Serverless Computing: One Step Forward, Two Steps Back (CIDR 2019).* (Provided PDF). 
 
 ### Official Microsoft Documentation (Azure Durable Functions)
 - [Durable Functions overview](https://learn.microsoft.com/en-ca/azure/azure-functions/durable/durable-functions-overview)
@@ -95,5 +95,5 @@ In conclusion my position is that durable Functions represents meaningful progre
 - [Task hubs in Durable Functions](https://learn.microsoft.com/en-ca/azure/azure-functions/durable/durable-functions-task-hubs)  
 - [Azure Storage provider for Durable Functions (history table)](https://learn.microsoft.com/en-ca/azure/azure-functions/durable/durable-functions-azure-storage-provider) 
 - [Performance and scale in Durable Functions (timeouts)](https://learn.microsoft.com/en-ca/azure/azure-functions/durable/durable-functions-perf-and-scale) 
-- [Azure Functions scale and hosting (HTTP response limit)](https://learn.microsoft.com/en-ca/azure/azure-functions/functions-scale  
+- [Azure Functions scale and hosting (HTTP response limit)](https://learn.microsoft.com/en-ca/azure/azure-functions/functions-scale)
 - [Fan-out/fan-in scenario sample](https://learn.microsoft.com/en-ca/azure/azure-functions/durable/durable-functions-cloud-backup) 
